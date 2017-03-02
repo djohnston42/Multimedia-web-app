@@ -1,0 +1,1 @@
+This Web application was built using PHP, HTML, CSS and JS for my Multimedia Technologies module. It uses a MySQL database to store customer records. Given the time constraints placed on this project there is much room for improvement, however it shows I have some experience working with these languages.
